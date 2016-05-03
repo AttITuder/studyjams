@@ -1,6 +1,6 @@
 <resources>
     <!--this should be translated -->
-    <string name="app_name">DuPengcan</string>
+    <string name="app_name">Kaifeng introduction</string>
     <string name="exit_title">退出</string>
     <string name="exit_message">你将要退出应用？</string>
     <string name="cancle">取消</string>
